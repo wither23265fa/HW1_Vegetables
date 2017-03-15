@@ -1,0 +1,46 @@
+@charset "UTF-8";
+h1 {
+    color: #889C5B;
+    font-size: 44px;
+    font-family: "Arial Black";
+    float: left;
+    display: block;
+}
+
+li {
+    display: inline;
+    font-size: 16px;
+    font-family: "Arial Black";
+    color: #EDF2C5;
+}
+
+html {
+    width: 1260px;
+    height: 940px;
+    background: #EDF2C5;
+}
+
+.btn-icon {
+    /*display: inline;*/
+    float: right;
+}
+
+.container{
+  position: relative;
+  margin: 0 auto;
+  padding: 0 150px;
+}
+
+footer{
+  padding: 24 438px;
+  text-align: center;
+  width: 1260px;
+  background: #889C5B
+}
+
+footer p{
+    font-family: Arial Black;
+    font-size: 12px;
+    margin: 0;
+    color: #EDF2C5;
+}
